@@ -1,2 +1,70 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img{
+            width: 80px;
+            padding: 10px;
+        }
+
+        div{
+            text-align: center;
+            margin-top: 5px
+        
+        }
+
+        .color{
+            background-color: gray;
+            width: 200px;
+            padding: 10px;
+            align-items: center;
+            border-radius: 30px;
+            border: solid 7px black;
+        }
+
+        body{
+            background-color: rgb(49, 49, 49);
+        }
+
+        h2{
+            color: white;
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+            padding: 60px;
+            
+        }
+
+
+    </style>
+</head>
+<body>
+    <h2>Clique no icone para o que precise 👇</h2>
+    <center>
+    <div class="color">
+    <a href="https://relogioonline.com.br/">
+    <img src="relogio.png">
+</a>
+
+<a href="https://icalendario.br.com/">
+    <img src="calendario.png">
+</a>
+
+<a href="https://temp-mail.org/pt/">
+    <img src="mensagem.png">
+</a>
+
+<a href="https://contato.online/">
+    <img src="pessoa.png">
+</a>
+
+</div>
+</center>
+</body>
+</html>
